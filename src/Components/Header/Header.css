@@ -1,0 +1,8 @@
+nav a{
+    margin: 10px;
+}
+nav a.active{
+    color: tomato
+    ;
+    text-decoration: underline;
+}
